@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-To clone and run this application, you will need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en)(which comes with npm) installed on your computer
+To clone and run this application, you will need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en) (which comes with npm) installed on your computer
 
 ### Installation
 
